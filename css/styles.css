@@ -11,7 +11,8 @@ body {
 }
 
 h1 {
-  width: 20%;
+  width: 50%;
+  font-size: 400%;
   margin: 0 auto;
   font-family: 'Sacramento', cursive;
 }
@@ -22,18 +23,6 @@ h2 {
 
 h3 {
   font-family: 'Montserrat', sans-serif;
-}
-
-.middleContainer {
-  background-color: blue;
-  height: 200px;
-  width: 200px;
-}
-
-.bottomContainer {
-  background-color: red;
-  height: 200px;
-  width: 200px;
 }
 
 span {
