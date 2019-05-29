@@ -1,0 +1,72 @@
+.topContainer {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  width: 20%;
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.middleContainer {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+
+.bottomContainer {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.topCloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+/* images */
+.profile{
+  margin-top: 40px;
+}
+.profilePicture{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+.catCoding{
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+}
+.math{
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+}
