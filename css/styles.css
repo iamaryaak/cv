@@ -11,8 +11,8 @@ body {
 }
 
 h1 {
-  width: 50%;
-  font-size: 600%;
+  /*width: 50%;*/
+  font-size: 400%;
   margin: 0 auto;
   font-family: 'Sacramento', cursive;
 }
