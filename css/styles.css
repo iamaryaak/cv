@@ -154,7 +154,7 @@ p {
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
-
+/* button */
 .butn:hover {
   background: #30ecbe;
   background-image: -webkit-linear-gradient(top, #30ecbe, #2bc48d);
