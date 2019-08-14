@@ -39,6 +39,9 @@ h2 {
   font-weight: normal;
   padding-bottom: 10px;
 }
+.greeting{
+  color: #ff4c68;
+}
 
 h3 {
   font-family: 'Montserrat', sans-serif;
