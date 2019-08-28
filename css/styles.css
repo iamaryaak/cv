@@ -1,5 +1,5 @@
 .topContainer {
-  background-color: #ff4c68;
+  background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(rgb(255, 121, 7)), to(rgb(240, 2, 240)));
   position: relative;
   padding-top: 100px;
   padding-bottom: 100px;
